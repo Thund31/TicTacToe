@@ -1,0 +1,10 @@
+C:\Programming\gitHub\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Programming\gitHub\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Programming\gitHub\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Programming\gitHub\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+C:\Programming\gitHub\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+C:\Programming\gitHub\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Programming\gitHub\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Programming\gitHub\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Programming\gitHub\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Programming\gitHub\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
